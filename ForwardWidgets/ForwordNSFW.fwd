@@ -4,13 +4,13 @@
   "icon": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/logo_sexy.png",
   "widgets": [
     {
-      "id": "91pron",
-      "title": "91pron数据",
-      "description": "获取 91pron 推荐数据",
+      "id": "91porn",
+      "title": "91Porn",
+      "description": "获取 91Porn 视频",
       "requiredVersion": "0.0.1",
       "version": "0.5.0",
-      "author": "Test",
-      "url": "https://raw.githubusercontent.com/baranwang/forward-widget/refs/heads/main/src/91porn.ts"
+      "author": "Baran",
+      "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
     },
     {
       "id": "91porn",
@@ -20,6 +20,15 @@
       "version": "0.5.0",
       "author": "Baran",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
+    },
+    {
+      "id": "Pornhub",
+      "title": "Pornhub",
+      "description": "在线观看Pornhub",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.4",
+      "author": "海带",
+      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
     },
     {
       "id": "ti.bemarkt.javrate",
