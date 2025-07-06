@@ -4,7 +4,7 @@
   "icon": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/logo_sexy.png",
   "widgets": [
     {
-      "id": "91pronData",
+      "id": "91pron",
       "title": "91pron数据",
       "description": "获取 91pron 推荐数据",
       "requiredVersion": "0.0.1",
