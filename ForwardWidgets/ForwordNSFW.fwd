@@ -7,8 +7,8 @@
       "id": "91pronData",
       "title": "91pron数据",
       "description": "获取 91pron 推荐数据",
-      "requiredVersion": "2.0.0",
-      "version": "2.0.0",
+      "requiredVersion": "0.9.4",
+      "version": "0.9.4",
       "author": "Test",
       "url": "https://raw.githubusercontent.com/baranwang/forward-widget/refs/heads/main/src/91porn.ts"
     },
