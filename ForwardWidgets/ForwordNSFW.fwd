@@ -13,24 +13,23 @@
       "url": "https://raw.githubusercontent.com/baranwang/forward-widget/refs/heads/main/src/91porn.ts"
     },
     {
-      "id": "Pornhub1",
-      "title": "Pornhub",
-      "description": "在线观看Pornhub",
+      "id": "91porn",
+      "title": "91Porn",
+      "description": "获取 91Porn 视频",
       "requiredVersion": "0.0.1",
-      "version": "1.0.4",
-      "author": "海带带",
-      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
+      "version": "0.5.0",
+      "author": "Baran",
+      "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
     },
     {
       "id": "ti.bemarkt.javrate",
       "title": "JAVRate",
       "description": "获取 JAVRate 推荐数据",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "2.1.0",
       "author": "Ti",
-      "url": "https://gist.githubusercontent.com/bemarkt/17e04f66b772d4ab9ab839c12a8ad608/raw/javrate.js"
+      "url": "https://raw.githubusercontent.com/tdddx1-start/tdddx1-start-myNewFW-21/refs/heads/main/JAV/JAVRate.js"
     },
-
     {
       "id": "ti.bemarkt.jable",
       "title": "Jable",
@@ -45,9 +44,9 @@
       "title": "JAVDay",
       "description": "获取 JAVDay 推荐",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "Ti",
-      "url": "https://gist.githubusercontent.com/bemarkt/17e04f66b772d4ab9ab839c12a8ad608/raw/javday.js"
+      "url": "https://raw.githubusercontent.com/tdddx1-start/tdddx1-start-myNewFW-21/refs/heads/main/JAV/JAVDay.js"
     }
   ]
 }
